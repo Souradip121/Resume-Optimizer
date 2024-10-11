@@ -1,1 +1,6 @@
 myenv
+maintwo.py
+test*.py
+.pdf
+.html
+.env
